@@ -1,3 +1,7 @@
+# Deploy Website
+ Run `npm run deploy` in local terminal and it should automatically deploy the current build to [https://brentonmdunn.github.io/lign42-final-project/](https://brentonmdunn.github.io/lign42-final-project/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
