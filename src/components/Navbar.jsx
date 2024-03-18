@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <div>
         <nav>
-            Navbar
+            LIGN 42 Final Project
         </nav>
     </div>
   )

@@ -13,11 +13,13 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Hero />
-      <Background words={words} />
-      <Analysis />
-      <Prediction />
-      <Conclusion />
+      <div className='body'>
+        <Hero />
+        <Background />
+        <Analysis words={words} />
+        <Prediction />
+        <Conclusion />
+      </div>
     </div>
   );
 }
