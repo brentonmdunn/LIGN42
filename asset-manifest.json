@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lign42-final-project/static/css/main.964fdded.css",
-    "main.js": "/lign42-final-project/static/js/main.c004ae3a.js",
+    "main.css": "/lign42-final-project/static/css/main.57907e2b.css",
+    "main.js": "/lign42-final-project/static/js/main.12f20e83.js",
     "static/js/453.78915d6b.chunk.js": "/lign42-final-project/static/js/453.78915d6b.chunk.js",
     "index.html": "/lign42-final-project/index.html",
-    "main.964fdded.css.map": "/lign42-final-project/static/css/main.964fdded.css.map",
-    "main.c004ae3a.js.map": "/lign42-final-project/static/js/main.c004ae3a.js.map",
+    "main.57907e2b.css.map": "/lign42-final-project/static/css/main.57907e2b.css.map",
+    "main.12f20e83.js.map": "/lign42-final-project/static/js/main.12f20e83.js.map",
     "453.78915d6b.chunk.js.map": "/lign42-final-project/static/js/453.78915d6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.c004ae3a.js"
+    "static/css/main.57907e2b.css",
+    "static/js/main.12f20e83.js"
   ]
 }
