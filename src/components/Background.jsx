@@ -1,9 +1,8 @@
 import React from 'react'
 import { Word } from './Word'
 import "./Background.css"
-export const Background = () => {
+export const Background = (props) => {
 
-    const words = ["sus", "rizz", "skibidi"]
     
 
   return (
@@ -12,7 +11,7 @@ export const Background = () => {
             Background
         </h2>
         <div className='word-list'>
-            {words.map((word, index) => (
+            {props.words.map((word, index) => (
                 <Word key={index} word={word} />
             ))}
         </div>

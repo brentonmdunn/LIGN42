@@ -7,11 +7,14 @@ import { Navbar } from './components/Navbar';
 import { Prediction } from './components/Prediction';
 
 function App() {
+  
+  const words = ["sus", "rizz", "skibidi"]
+
   return (
     <div className="App">
       <Navbar />
       <Hero />
-      <Background />
+      <Background words={words} />
       <Analysis />
       <Prediction />
       <Conclusion />
