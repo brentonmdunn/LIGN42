@@ -8,7 +8,7 @@ import { Prediction } from './components/Prediction';
 
 function App() {
   
-  const words = ["sus", "rizz", "skibidi"]
+  const words = ["sus", "rizz", "skibidi", "mog", "mew"]
 
   return (
     <div className="App">
