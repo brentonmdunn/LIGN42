@@ -1,0 +1,6 @@
+.clickable-text {
+    color: black;
+    text-decoration:none;
+    background-color: aquamarine;
+    display: inline;
+}

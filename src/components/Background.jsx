@@ -18,6 +18,8 @@ export const Background = () => {
                 terms be created while terms that were popular among Gen Z are 
                 “out” or cringe.
             </p>
+            <p>As the internet has matured, the format of memes has changed. It started as text, when anything other than that was too advanced for the internet of the day. Static images then became popular, where more of the spectrum of emotions could be portrayed that couldn’t be expressed with just text. Static images turned to gifs. Then, with the rise of popular social media sites such as TikTok and Instagram, short-form videos are the newest hottest item. With this, comes a lot of audio, which was formerly impossible with memes of the image format. This audio has led to memes being able to be verbally expressed. Words and phrases gain popularity in a video, then are slowly integrated into daily language. It may start ironically, but some meme words have stuck around.
+</p>
             <p>
                 With this project, our goal is to analyze Gen Alpha’s most 
                 popular meme words right now. We will compare the sound patterns 
