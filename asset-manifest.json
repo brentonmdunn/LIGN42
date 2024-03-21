@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/lign42-final-project/static/css/main.0de32dbb.css",
-    "main.js": "/lign42-final-project/static/js/main.4d17ee18.js",
+    "main.css": "/lign42-final-project/static/css/main.1a413f0e.css",
+    "main.js": "/lign42-final-project/static/js/main.902c1448.js",
     "static/js/453.6333193f.chunk.js": "/lign42-final-project/static/js/453.6333193f.chunk.js",
     "static/media/Alpha.png": "/lign42-final-project/static/media/Alpha.91d4d648a7395c3440c4.png",
     "static/media/mewimage.png": "/lign42-final-project/static/media/mewimage.f85429f853a8aae885cf.png",
     "static/media/sigma.png": "/lign42-final-project/static/media/sigma.f4e9e627ca06a38b81ad.png",
+    "static/media/barchat1.png": "/lign42-final-project/static/media/barchat1.521dbcc19633c9250eb4.png",
+    "static/media/barchart2.png": "/lign42-final-project/static/media/barchart2.fa7bf6faadbf00b5634b.png",
     "static/media/pogchamp.png": "/lign42-final-project/static/media/pogchamp.45135228df94ec798628.png",
     "index.html": "/lign42-final-project/index.html",
-    "main.0de32dbb.css.map": "/lign42-final-project/static/css/main.0de32dbb.css.map",
-    "main.4d17ee18.js.map": "/lign42-final-project/static/js/main.4d17ee18.js.map",
+    "main.1a413f0e.css.map": "/lign42-final-project/static/css/main.1a413f0e.css.map",
+    "main.902c1448.js.map": "/lign42-final-project/static/js/main.902c1448.js.map",
     "453.6333193f.chunk.js.map": "/lign42-final-project/static/js/453.6333193f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de32dbb.css",
-    "static/js/main.4d17ee18.js"
+    "static/css/main.1a413f0e.css",
+    "static/js/main.902c1448.js"
   ]
 }
