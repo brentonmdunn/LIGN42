@@ -31,14 +31,15 @@ export const Sources = () => {
     "https://ipa.winstondurand.com/#/keyboard/type",
     "https://knowyourmeme.com/memes/glazing-slang",
     "https://www.quora.com/What-does-womp-womp-mean-How-is-it-used#:~:text=Womp%20Womp%E2%80%9D%20is%20an%20imitative,a%20joke%20has%20fallen%20flat",
-    "https://en.wikibooks.org/wiki/African_American_Vernacular_English/Pronunciation#:~:text=African%20American%20Vernacular%20English%20"
+    "https://en.wikibooks.org/wiki/African_American_Vernacular_English/Pronunciation#:~:text=African%20American%20Vernacular%20English%20",
+    "https://www.wikihow.com/Sussy-Baka-Meaning#:~:text=%E2%80%9CSussy%20baka%E2%80%9D%20was%20popularized%20by,the%20term%20entered%20common%20usage"
 
   ]
 
 
   return (
     <div>
-      <LB /><h2><span>Sources</span></h2>
+      <LB /><h2><span>Works Cited</span></h2>
       
       
       <ul>
