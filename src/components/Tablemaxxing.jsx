@@ -186,6 +186,14 @@ export const Tablemaxxing = () => {
     <td>Social Stereotype</td>
     <td>Semantic Meaning</td>
   </tr>
+  <tr>
+    <td>Sus</td>
+    <td>1</td>
+    <td>N/A</td>
+    <td>TikTok</td>
+    <td>Social Stereotype</td>
+    <td>Derived</td>
+  </tr>
 </tbody>
 </table>
     </div>

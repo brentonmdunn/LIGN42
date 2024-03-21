@@ -16,7 +16,8 @@ export const Alpha = () => {
         <LB />
         Alpha /æl.fə/ has two syllables: 
         <ul>
-            <li>/æl/: /æ/ is the nucleus and /l/ is the coda</li>
+<li>/æl/: /æ/ is the nucleus and /l/ is the coda. This syllable has the most emphasis.
+</li>
             <li>/fə/: /f/ is the onset and /ə/ is the nucleus</li>
         </ul>
 

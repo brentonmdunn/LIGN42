@@ -7,7 +7,7 @@ import "./Memes.css"
 export const Barchartmaxxing = () => {
   return (
     <div>
-        <h3>Barchartmaxxing</h3>
+        <LB /><h3>Barchartmaxxing</h3>
         <img src={chart1} />
         <LB />
 
@@ -22,8 +22,8 @@ export const Barchartmaxxing = () => {
         <LB />
         Based on our observations, we can see that out of the 9 words that we collected that have over one syllable, eight of them have an initial stress on the first syllable while only one word out of the nine has the accented syllable on the second syllable. 
 
-        <LB />
-        We hypothesize that this preference for monosyllabic words reflects a broader linguistic trend towards efficiency and ease of articulation, a principle that’s also seen in the phonological features of AAVE, such as consonant cluster reductions and the use of “-in” instead of “-ing.” This is reflected in frequent use cases of some of our words, such as “yap” is frequently used as “yappin” (i.e., “What is blud yappin’ about?”). These simplifications make words quicker and easier to say, enhancing communication speed and fluidity, which is particularly valued in informal, fast-paced, digital environments. In addition, it can be noted that the monosyllabic dominance can be attributed to not only 
+        {/* <LB /> */}
+        {/* We hypothesize that this preference for monosyllabic words reflects a broader linguistic trend towards efficiency and ease of articulation, a principle that’s also seen in the phonological features of AAVE, such as consonant cluster reductions and the use of “-in” instead of “-ing.” This is reflected in frequent use cases of some of our words, such as “yap” is frequently used as “yappin” (i.e., “What is blud yappin’ about?”). These simplifications make words quicker and easier to say, enhancing communication speed and fluidity, which is particularly valued in informal, fast-paced, digital environments. In addition, it can be noted that the monosyllabic dominance can be attributed to not only  */}
 
 
     </div>

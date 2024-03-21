@@ -7,6 +7,7 @@ import { CustomBlockquote } from './components/CustomBlockquote';
 import { Hero } from './components/Hero';
 import { LearnMore } from './components/LearnMore';
 import { Navbar } from './components/Navbar';
+import { PhonoChar } from './components/PhonoChar';
 import { Prediction } from './components/Prediction';
 import { Sources } from './components/Sources';
 
@@ -32,7 +33,8 @@ function App() {
         <br /><br />
         <Background />
         <Analysis words={words} />
-        <Prediction />
+        <PhonoChar />
+<Prediction />
         <Conclusion />
         <Sources />
       </div>

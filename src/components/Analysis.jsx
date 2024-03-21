@@ -30,6 +30,8 @@ import { Glaze } from './Words/Glaze'
 import { Womp } from './Words/Womp'
 import { Tablemaxxing } from './Tablemaxxing'
 import { Barchartmaxxing } from './Words/Barchartmaxxing'
+import { Morphomeme } from './Words/Morphomeme'
+import { Sus } from './Words/Sus'
 
 
 
@@ -38,16 +40,13 @@ export const Analysis = (props) => {
     <div>
       <LB />
       <h2><span>Analysis</span></h2>
+      <Morphomeme />
       <h3>
         What are the most popular meme words now?
       </h3>
       <p>
-        If you’ve ever talked to a Gen Alpha child, you’ve probably heard any 
-        combination of rizz, fanum, skibidi, gyat, and Ohio. Mew, mog, and 
-        looksmaxxing are all new phrases too. We will first understand the 
-        meanings and contexts of these words, then analyze their syllable 
-        structures. We used a combination of online words lists, Reddit, and 
-        anecdotal experience to come up a list of the following words to analyze:
+      If you’ve ever talked to a Gen Alpha child, you’ve probably heard any combination of rizz, fanum, skibidi, gyat, and Ohio. Mew, mog, and looksmaxxing are all new phrases too. We will first understand the meanings and contexts of these words, then analyze their syllable structures. We used a combination of online words lists, Reddit, and anecdotal experience to come up a list of the following words that frequently come up in conversation to analyze:
+
       </p>    
       <div className='word-list'>
         {props.words.map((word, index) => (
@@ -55,8 +54,9 @@ export const Analysis = (props) => {
         ))}
       </div>
 
+      
       <AnalysisExplanation />
-
+      
       <Rizz />
       <Skibidi />
       <Gyat />
@@ -76,6 +76,7 @@ export const Analysis = (props) => {
       <Slay />
       <Glaze />
       <Womp />
+      <Sus />
         
       <Tablemaxxing />
       <Barchartmaxxing />

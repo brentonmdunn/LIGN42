@@ -14,7 +14,7 @@ export const Beta = () => {
 
         <ul>
             <li>
-            /beɪ/: /b/ is the onset and /eɪ/ is the nucleus
+            /beɪ/: /b/ is the onset and /eɪ/ is the nucleus. This syllable has the most emphasis.
 
             </li>
             <li>
@@ -22,6 +22,8 @@ export const Beta = () => {
 
             </li>
         </ul>
+        Beta is most often used when talking about wolves or human males. 
+
         </p>
     </div>
   )

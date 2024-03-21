@@ -10,7 +10,9 @@ export const Grimace = () => {
         <p>
 
         The Grimace Shake is a limited edition, supposedly berry-flavored milkshake that the popular fast-food chain McDonald created to celebrate Grimace Birthday, a fictional mascot. 
-        <LB />
+                <LB />
+                The Grimace Shake is a limited edition, supposedly berry-flavored milkshake that the popular fast-food chain McDonald created to celebrate Grimace Birthday, a fictional mascot. 
+
 This very oddly purple, and overly sweet drink have starred in many short videos, whomst all follows the motive of folks trying out the beverage, which then suddenly cut to a horrific scene depicting gruesome death, with discarded cup of the shake. Besides gooey death, the Grimace Shake has been shown to induce heavy intoxication, demonic possession, and insanity. Some splash the milkshake on their clothes and surroundings to look like a crime scene, or rather, a "Grime Scene," dubbing Grimace a "Griminal." 
         <LB />
 
@@ -21,7 +23,9 @@ This very oddly purple, and overly sweet drink have starred in many short videos
         Grimace /ˈɡɹɪ.məs/ has two syllables:
         <ul>
 
-            <li>/ɡɹɪ/: /gɹ/ is the onset and /ɪ/ is the nucleus</li>
+            <li>
+            /ɡɹɪ/: /gɹ/ is the onset and /ɪ/ is the nucleus. This syllable has the most emphasis.
+              </li>
             <li>/məs/: /m/ is the onset, /ə/ is the nucleus, and /s/ is the coda</li>
 
 

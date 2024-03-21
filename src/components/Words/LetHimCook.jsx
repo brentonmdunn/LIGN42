@@ -16,8 +16,12 @@ export const LetHimCook = () => {
 
         Cook /kʊk/ is monosyllabic: /k/ is the onset, /ʊ/ is the nucleus, and /k/ is the coda.
 <LB />
-Morphomemes: Unlike the other meme words we have researched, cook is just a normal word without any other morphomemes 
-
+Morphomemes: Unlike the other meme words we have researched, cook is just a normal word without any other interesting morphomemes:
+    <ul>
+      <li>cooker</li>
+      <li>Cooking</li>
+      <li>Cooked</li>
+    </ul>
         </p>
     </div>
   )

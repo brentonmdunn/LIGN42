@@ -13,7 +13,8 @@ export const Griddy = () => {
 
             Griddy /ˈɡɹɪ.ɾi/ has two syllables:
 <ul>
-    <li>/ɡɹɪ/: /gɹ/ is the onset and /ɪ/ is the nucleus</li>
+    <li>/ɡɹɪ/: /gɹ/ is the onset and /ɪ/ is the nucleus. This syllable has the most emphasis.
+</li>
     <li>/ɾi/: /ɾ/ is the onset and /i/ is the nucleus
 </li>
 </ul>

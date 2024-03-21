@@ -18,7 +18,14 @@ export const Yap = () => {
         </ul>
         <LB />
         Morphomemes: The term has been also used as part of the word “yappanese”, which is used to imply a unique language of yapping. This specific term arises from the similarity in sounds of yap and the first syllable of japanese. 
-
+        <ul>
+          <li>“That guy talks so much! He’s fluent in yappanese.”
+</li>
+          <li>“I yapped too much at my meeting, we ran out of time.”
+</li>
+          <li>“I love talking, yapping is my specialty!”
+</li>
+        </ul>
         </p>
     </div>
   )

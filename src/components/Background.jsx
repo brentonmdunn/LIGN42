@@ -16,9 +16,14 @@ export const Background = () => {
             <LB />
             With this project, our goal is to analyze Gen Alpha’s most popular meme words right now. We will compare the sound patterns and syllables of each word. Using this data, we will try to define characteristics that make a popular meme word. Maybe we would even predict the next meme word!
             </p>
-            <h3>Why is Gen Alpha humor so important?</h3>
+            <h3>Why are Gen Alpha memes so important?</h3>
             <p>
             Gen Alpha was given technology and access to the internet at a very young age, which is obviously earlier than any other generation. Where older generations were given books, Gen Alpha kids were given iPads. Where older generations were given a note to pass to a teacher detailing the pickup of their kid, the parent just texted the kid directly. Because of this, Gen Alpha kids have developed their own distinct sense of humor and “meme culture”. We believe that such meme culture needs to be studied, in order to understand how this new generation thinks right now and how they will think in the future. As the New York Times states, “When Everything Is Heavy, a Touch of Humor Can Help”, and memes is certainly a subset of humor.
+            </p>
+            <h3>What are some characteristics of Gen Alpha memes?</h3>
+            <p>
+            Based on the data collected, we can infer that most of the Gen Alpha memes have 2 main characteristics to them– they are random, and they are ironic. From one side of the spectrum, most of these “random” memes (especially in speech) have arisen because of how “goofy” the word sounds, or if the word is random in itself. From here, many different terms for vocab 
+
             </p>
             <h3>How do we define Gen Alpha memes?</h3>
             <p>

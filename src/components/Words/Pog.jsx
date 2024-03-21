@@ -13,7 +13,7 @@ export const Pog = () => {
         <LB />
         Pog /pɑg/ is monosyllabic: /p/ is the onset, /ɑ/ is the nucleus, and /g/ is the coda.
         <LB />
-        Morphomemes: Originally from the word “pogchamp,” made popular through Twitch. Other variations include:
+        Morphomemes: Originally from the word “pogchamp,” made popular through the popular streaming platform Twitch. Other variations include:
         <ul>
             <li>poggers</li>
             <li>PogU</li>
