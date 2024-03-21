@@ -13,7 +13,7 @@ import { AnalysisExplanation } from './AnalysisExplanation'
 export const Analysis = (props) => {
   return (
     <div>
-      <h2>Analysis</h2>
+      <h2><span>Analysis</span></h2>
       <h3>
         What are the most popular meme words now?
       </h3>
@@ -35,8 +35,8 @@ export const Analysis = (props) => {
 
       <h3>Rizz</h3>
       <p>Shortened from charisma, rizz can be used as a noun to describe the amount of charisma, or likeability, one has. Alternatively it can be used as a verb, for example, in the sentence “He is going to rizz her up,” we see that the meaning of rizz is someone trying to be charismatic toward someone else. Similarly, we have the term “rizzler” which is the person who has rizz, or the person who has charisma. Like many of Gen Alpha’s most popular slang words, rizz was popularized by streamer Kai Cenat.
-</p>
-      <p>Rizz /ɹɪz/ is a singular syllable: /ɹ/ is the onset, /ɪ/ is the nucleus, and /z/ is the coda. Since few words in the English language end with “z” (175 in total!), and only one syllable, “rizz” is a memorable word that is interesting to say.
+
+<br /> <br />Rizz /ɹɪz/ is a singular syllable: /ɹ/ is the onset, /ɪ/ is the nucleus, and /z/ is the coda. Since few words in the English language end with “z” (175 in total!), and only one syllable, “rizz” is a memorable word that is interesting to say.
       </p>
       <h3>Skibidi</h3>
       <p>

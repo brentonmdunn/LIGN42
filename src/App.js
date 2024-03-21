@@ -20,6 +20,7 @@ function App() {
         <Hero />
         {/* <BlockquoteLearning /> */}
         <LearnMore type='inline' />
+        <br /><br />
         <Background />
         <Analysis words={words} />
         <Prediction />

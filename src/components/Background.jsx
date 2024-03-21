@@ -1,30 +1,20 @@
 import React from 'react'
 import "./Background.css"
+import { LB } from './LB'
 
 export const Background = () => {
   return (
     <div>
-        <h2>
-            Background
+        <h2><span>Background</span>
+            
         </h2>
         <div>
             <p>
-                Sticking out your gyat for the rizzler, you’re so skibidi, y
-                ou’re so fanum tax. Can you believe that this is a real song? 
-                Can you understand the meaning of that sentence? Gen Z and 
-                Millennials alike have been amazed, and sometimes even 
-                dumbfounded, by the new meme words coming from Gen Alpha. As Gen 
-                Alpha’s presence on social media increases, we have seen various 
-                terms be created while terms that were popular among Gen Z are 
-                “out” or cringe.
-            </p>
-            <p>As the internet has matured, the format of memes has changed. It started as text, when anything other than that was too advanced for the internet of the day. Static images then became popular, where more of the spectrum of emotions could be portrayed that couldn’t be expressed with just text. Static images turned to gifs. Then, with the rise of popular social media sites such as TikTok and Instagram, short-form videos are the newest hottest item. With this, comes a lot of audio, which was formerly impossible with memes of the image format. This audio has led to memes being able to be verbally expressed. Words and phrases gain popularity in a video, then are slowly integrated into daily language. It may start ironically, but some meme words have stuck around.
-</p>
-            <p>
-                With this project, our goal is to analyze Gen Alpha’s most 
-                popular meme words right now. We will compare the sound patterns 
-                and syllables of each word, in order to predict what could be 
-                the next meme word. 
+            Sticking out your gyat for the rizzler, you’re so skibidi, you’re so fanum tax. Can you believe that this is a real song? Can you understand the meaning of that sentence? Gen Z and Millennials alike have been amazed, and sometimes even dumbfounded, by the new meme words coming from Gen Alpha. As Gen Alpha’s presence on social media increases, we have seen various terms be created while terms that were popular among Gen Z are “out” or “cringe”.
+            <LB />
+            As the internet has matured, the format of memes has changed. It started as text, when anything other than that was too advanced for the internet of the day. Static images then became popular, where more of the spectrum of emotions could be portrayed that couldn’t be expressed with just text. Static images turned into gifs. Then, with the rise of popular social media sites such as TikTok and Instagram, short-form videos are the newest hottest item. With this, comes a lot of audio, which was formerly impossible with memes of the image format. This audio has led to memes being able to be verbally expressed. Words and phrases gain popularity in a video, then are slowly integrated into daily language, and this is spearheaded by Generation Alpha. They were the first generation to grow up without knowing life without portable tablet and cellular devices. Because of this, you may hear someone shout “SKIBIDI!!” from across the playground, where yelling “Left Exit 12 Off Ramp” just does not have the same effect. The words in conversion may start ironically, but some meme words have stuck around and have become integrated into speech long after other memes have died.
+            <LB />
+            With this project, our goal is to analyze Gen Alpha’s most popular meme words right now. We will compare the sound patterns and syllables of each word. Using this data, we will try to define characteristics that make a popular meme word. Maybe we would even predict the next meme word!
             </p>
             <h3>Why is Gen Alpha humor so important?</h3>
             <p>
