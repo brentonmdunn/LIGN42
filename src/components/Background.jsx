@@ -18,9 +18,12 @@ export const Background = () => {
             </p>
             <h3>Why is Gen Alpha humor so important?</h3>
             <p>
-                Gen Alpha was given technology and access to the internet at a very young age, which is obviously earlier than any other generation. Because of this, they’ve developed their own distinct sense of humor and “meme culture”. We believe that such meme culture needs to be studied, in order to understand how this new generation thinks right now and how they will think in the future.</p>
+            Gen Alpha was given technology and access to the internet at a very young age, which is obviously earlier than any other generation. Where older generations were given books, Gen Alpha kids were given iPads. Where older generations were given a note to pass to a teacher detailing the pickup of their kid, the parent just texted the kid directly. Because of this, Gen Alpha kids have developed their own distinct sense of humor and “meme culture”. We believe that such meme culture needs to be studied, in order to understand how this new generation thinks right now and how they will think in the future. As the New York Times states, “When Everything Is Heavy, a Touch of Humor Can Help”, and memes is certainly a subset of humor.
+            </p>
             <h3>How do we define Gen Alpha memes?</h3>
-            <p>We categorized meme words by the time they were popularized. Since we know that the Gen Alpha age range is defined to start in the early 2010s until 2025, we can estimate that the earliest among Gen Alpha began being “online” around 2020. Therefore, memes created by Gen Alpha would start becoming popular around this time as well. We are specifically focusing on memes that are commonly used in speech.</p>
+            <p>
+            We categorized meme words by the time they were popularized. Since we know that the Gen Alpha age range is defined to start in the early 2010s until 2025, we can estimate that the earliest among Gen Alpha began being “online” around 2020. Therefore, memes created by Gen Alpha would start becoming popular around this time as well. We are specifically focusing on memes that are commonly used in speech.
+            </p>
         </div>
 
         

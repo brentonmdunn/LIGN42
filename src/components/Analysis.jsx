@@ -7,12 +7,33 @@ import { LearnMore } from './LearnMore'
 import { Typography } from '@mui/material'
 import { CustomBlockquote } from './CustomBlockquote'
 import { AnalysisExplanation } from './AnalysisExplanation'
+import { LB } from './LB'
+import { Rizz } from './Words/Rizz'
+import { Skibidi } from './Words/Skibidi'
+import { Gyat } from './Words/Gyat'
+import { Ohio } from './Words/Ohio'
+import { Looksmaxxing } from './Words/Looksmaxxing'
+import { Mew } from './Words/Mew'
+import { Alpha } from './Words/Alpha'
+import { Mog } from './Words/Mog'
+import { Beta } from './Words/Beta'
+import { Sigma } from './Words/Sigma'
+import { Pookie } from './Words/Pookie'
+import { Grimace } from './Words/Grimace'
+import { Yap } from './Words/Yap'
+import { Pog } from './Words/Pog'
+import { Dub } from './Words/Dub'
+import { Griddy } from './Words/Griddy'
+import { Slay } from './Words/Slay'
+import { Glaze } from './Words/Glaze'
+import { Womp } from './Words/Womp'
 
 
 
 export const Analysis = (props) => {
   return (
     <div>
+      <LB />
       <h2><span>Analysis</span></h2>
       <h3>
         What are the most popular meme words now?
@@ -33,26 +54,25 @@ export const Analysis = (props) => {
 
       <AnalysisExplanation />
 
-      <h3>Rizz</h3>
-      <p>Shortened from charisma, rizz can be used as a noun to describe the amount of charisma, or likeability, one has. Alternatively it can be used as a verb, for example, in the sentence “He is going to rizz her up,” we see that the meaning of rizz is someone trying to be charismatic toward someone else. Similarly, we have the term “rizzler” which is the person who has rizz, or the person who has charisma. Like many of Gen Alpha’s most popular slang words, rizz was popularized by streamer Kai Cenat.
-
-<br /> <br />Rizz /ɹɪz/ is a singular syllable: /ɹ/ is the onset, /ɪ/ is the nucleus, and /z/ is the coda. Since few words in the English language end with “z” (175 in total!), and only one syllable, “rizz” is a memorable word that is interesting to say.
-      </p>
-      <h3>Skibidi</h3>
-      <p>
-      Skibidi Toilet is an animated web series on Youtube created by DaFuq!?Boom!. The series went viral, and many memes have come from it. While the characteric head-coming-from-a-toilet has its own spinoff of memes, we are more concerned with the usage of “skibidi” in conversation. In conversation, it is mostly used ironically. However, like many other memes, skibidi has somewhat spun off from its original meaning, and has come to mean, at least in some circles, “someone who is evil or bad” 
-
-      </p>
-      <p>Skibidi /skɪ.bɪ.di/ has three syllables:</p>
-      <ul>
-        <li>/skɪ/: /sk/ is the onset, /ɪ/ is the nucleus</li>
-        <li>/bɪ/: /b/ is the onset, /ɪ/ is the nucleus</li>
-        <li>/di/: /d/ is the onset, /i/ is the nucleus</li>
-      </ul>
-      <p>
-      Similar to rizz, there are few words that sound similar to skibidi, so it is very unique. Although it is not monosyllabic, skibidi is definitely fun to say, and has an interesting structure.
-
-      </p>
+      <Rizz />
+      <Skibidi />
+      <Gyat />
+      <Ohio />
+      <Looksmaxxing />
+      <Mew />
+      <Mog />
+      <Alpha />
+      <Beta />
+      <Sigma />
+      <Pookie />
+      <Grimace />
+      <Yap />
+      <Pog />
+      <Dub />
+      <Griddy />
+      <Slay />
+      <Glaze />
+      <Womp />
     </div>
   )
 }

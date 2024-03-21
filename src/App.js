@@ -8,6 +8,7 @@ import { Hero } from './components/Hero';
 import { LearnMore } from './components/LearnMore';
 import { Navbar } from './components/Navbar';
 import { Prediction } from './components/Prediction';
+import { Sources } from './components/Sources';
 
 function App() {
   
@@ -25,6 +26,7 @@ function App() {
         <Analysis words={words} />
         <Prediction />
         <Conclusion />
+        <Sources />
       </div>
     </div>
   );
