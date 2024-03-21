@@ -1,5 +1,6 @@
 import React from 'react'
 import { LB } from '../LB'
+import './Memes.css'
 
 export const Rizz = () => {
   return (

@@ -5,7 +5,7 @@ import alphaimage from './images/Alpha.png'
 export const Alpha = () => {
   return (
     <div>
-        <h3>Allpha</h3>
+        <h3>Alpha</h3>
         <p>
         An alpha wolf is the leader of the pack. When someone calls themselves an alpha, it means that they are better or more powerful than the others in the group. Memes involving alpha wolves tend to be ironic, with images or videos usually depicting one acting as a powerful individual exerting their power to dominate others. The following is a great example of this:
         <LB />

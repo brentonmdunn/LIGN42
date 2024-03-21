@@ -11,8 +11,16 @@ import { Prediction } from './components/Prediction';
 import { Sources } from './components/Sources';
 
 function App() {
-  
-  const words = ["sus", "rizz", "skibidi", "mog", "mew", "pog", "pog", "Chat", "", "", "", "", "" ]
+  const words = [
+    "Rizz", 
+    "Skibidi", 
+    "Gyat", 
+    "Ohio", 
+    "Looksmaxxing", "Mew", 
+    "Mog", "Chat", "Alpha", 
+    "Beta", "Sigma", "Pookie", "Grimace",
+  "Yap", "Pog", "W", "L", "Griddy", "(Let him) cook",
+"Slay", "Glaze", "Womp Womp"]
 
   return (
     <div className="App">

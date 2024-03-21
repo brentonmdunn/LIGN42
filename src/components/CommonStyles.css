@@ -1,0 +1,13 @@
+h2 span {
+    border-bottom: 10px solid aquamarine;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.word-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+

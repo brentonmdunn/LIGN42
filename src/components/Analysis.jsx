@@ -2,6 +2,7 @@ import React from 'react'
 
 import { Word } from './Word'
 import "./Analysis.css"
+import './CommonStyles.css'
 import { CustomModal } from './CustomModal'
 import { LearnMore } from './LearnMore'
 import { Typography } from '@mui/material'
@@ -27,6 +28,8 @@ import { Griddy } from './Words/Griddy'
 import { Slay } from './Words/Slay'
 import { Glaze } from './Words/Glaze'
 import { Womp } from './Words/Womp'
+import { Tablemaxxing } from './Tablemaxxing'
+import { Barchartmaxxing } from './Words/Barchartmaxxing'
 
 
 
@@ -73,6 +76,9 @@ export const Analysis = (props) => {
       <Slay />
       <Glaze />
       <Womp />
+        
+      <Tablemaxxing />
+      <Barchartmaxxing />
     </div>
   )
 }
